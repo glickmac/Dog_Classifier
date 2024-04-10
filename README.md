@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains code for building a deep-learning model that classifies dog breeds from images. The model is based on Convolutional Neural Networks (CNNs) implemented using TensorFlow and Keras.
+This repository contains code for building a deep-learning model that classifies dog breeds from images. The model can be accessed and a sample can be added using [Streamlit](https://dogclassifier.streamlit.app/). The model is based on Convolutional Neural Networks (CNNs) implemented using TensorFlow and Keras.
 
 ## Table of Contents
 
@@ -43,7 +43,7 @@ Our CNN model consists of the following layers:
 3. **Pooling Layers**: Reduces spatial dimensions.
 4. **Fully Connected Layers**: Makes predictions.
 
-![CNN Architecture](https://github.com/glickmac/Dog_Classifier/raw/main/cnn_architecture.png)
+![CNN Architecture](https://github.com/glickmac/Dog_Classifier/raw/main/cnn_architecture.jpg)
 
 ## Training
 
