@@ -1,6 +1,6 @@
 # Dog Breed Classifier using Convolutional Neural Networks (CNNs)
 
-![Dog Classifier](https://github.com/glickmac/Dog_Classifier/raw/main/dog_classifier.jpg)
+![Dog Classifier](https://github.com/glickmac/Dog_Classifier/data/dog_classifier.jpg)
 
 ## Overview
 
@@ -43,7 +43,7 @@ Our CNN model consists of the following layers:
 3. **Pooling Layers**: Reduces spatial dimensions.
 4. **Fully Connected Layers**: Makes predictions.
 
-![CNN Architecture](https://github.com/glickmac/Dog_Classifier/raw/main/cnn_architecture.jpg)
+![CNN Architecture](https://github.com/glickmac/Dog_Classifier/data/cnn_architecture.jpg)
 
 ## Training
 
