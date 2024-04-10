@@ -67,9 +67,4 @@ Evaluate the model on a validation set. Calculate accuracy and other relevant me
 - [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) for providing the dog breed images.
 
 ---
-
 Feel free to add more details, instructions, and credits as needed. Good luck with your dog breed classifier! 🐶📸
-
-(1) Build Your First Deep Learning Classifier using TensorFlow: Dog Breed .... https://towardsdatascience.com/build-your-first-deep-learning-classifier-using-tensorflow-dog-breed-example-964ed0689430.
-(2) An Image Classifier on Dog Breeds using Deep Learning. https://github.com/shiinamars/image-classifier-on-dog-breeds/blob/main/README.md.
-(3) Image Classifier 101: A Dog Breed Example - Medium. https://medium.com/@yolanda091107/image-classifier-101-a-dog-breed-example-cd96a1038a52.
